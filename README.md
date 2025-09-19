@@ -6,7 +6,7 @@ Gerenciando sua fome e saúde enquanto seu Tamagotchi envelhece com o tempo.
 - Python
 
 # Como Executar
-##Para rodar este projeto, você só precisa ter o Python 3 instalado em sua máquina.
+Para rodar este projeto, você só precisa ter o Python 3 instalado em sua máquina.
 
 1. Clone o repositório (ou baixe o arquivo .py):
 
